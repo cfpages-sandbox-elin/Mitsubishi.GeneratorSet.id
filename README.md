@@ -1,0 +1,2 @@
+# Mitsubishi.GeneratorSet.id
+ 
